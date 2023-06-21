@@ -1,0 +1,27 @@
+.covidData {
+    text-align: center;
+  }
+  
+  .covidData__country__info {
+    margin-top: 20px;
+  }
+  
+  .covidData__country__info table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .covidData__country__info td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .covidData__country__info td:first-child {
+    font-weight: bold;
+    background-color: #f0f0f0;
+  }
+  
+  .covidData__country__info tr:hover {
+    background-color: #f0f0f0;
+  }
+  
